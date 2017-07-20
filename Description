@@ -16,8 +16,8 @@ These tanks can then be used in either:
 * single-fuel vehicles that are used for driving short distances with it after which they can be refilled again. This is useful for say vehicles operating in cities (i.e. delivery vehicles)
 * flexible-fuel vehicles. For instance cars that have a tank with liquid fuel for covering long distances with it, and a hydrogen tank for city use.
 
-Given that the hydrogen is compressed at only 250 bar -rather than 350 bar or 700 bar as seen in other H2 filling station designs-, the compressor will need to work far less hard for the amount of hydrogen you can store in them
-(the energy needed for compression is does not have a linear relation with the amount of energy you store in the tanks; rather it's a polynomial function; 
+Given that the hydrogen is compressed at only 250 bar -rather than 350 bar or 700 bar as seen in other H2 filling station designs-, the compressor will need to work far less hard for the amount of hydrogen you can store in them.
+This, as the energy needed for compression is does not have a linear relation with the amount of energy you store in the tanks; rather it's a polynomial function; 
 see https://en.wikipedia.org/wiki/Polynomial#Polynomial_functions
 and https://en.wikipedia.org/wiki/Proportionality_(mathematics)
 ). As such, by using this lower pressure (250 bar), the efficiency of the system as a whole drastically improves.
