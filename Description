@@ -31,3 +31,5 @@ Both the compressor and the electrolyzer are to be powered via a conventional po
 This means that these devices would need to be able to run on the electricity that has voltages and frequencies dictated by your local power grid. 
 The electrical power provided by the power companies should come from either renewable or nuclear sources. 
 So, take a subscription that excludes that power can come from fossil fuel power plants.
+
+The electrolyzer to use will generally be a pulsed electrolyzer (see https://hydrogengarage.com/pwm3g/ ).
