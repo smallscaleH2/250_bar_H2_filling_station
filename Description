@@ -6,7 +6,7 @@ A 3 gallon CNG tank, filled with hydrogen at 250 bar, would be able to contain 1
 Calculation: 11,35 l x 0,003 kWh/l x 250 bar = 8,51 kWh / 8,83 kWh = 0,96 x 100 = 96% 
 
 The station is also designed to use an electrolyzer that generates Brown's gas (HHO) but which is foreseen to separate off the oxygen -which forms at the anode (+-side) -. 
-The reason why an HHO electrolyzer is used is because this type of electrolyzer is cheaper than regular electrolyzers designed to make hydrogen. 
+The reason why an HHO electrolyser is used is because this type of electrolyzer is cheaper than regular electrolysers designed to make hydrogen. 
 Since hydrogen is thus made (and not Brown's gas), there is less risk of explosion when the gas is compressed by the compressor.
 
 USE
@@ -27,9 +27,14 @@ Since we'll need it able to fill up a 3 gallon tank, the electrolyser of the fil
 The time of filling is best limited to 10 minutes or less, so the electrolyser needs to produce at least 0,189 liter per minute.
 Inlet gas amounts to the compressor need to match with the outlet flow of the electrolyser.
 
-Both the compressor and the electrolyzer are to be powered via a conventional power plug that can plug in to the mains power grid.
+Both the compressor and the electrolyser are to be powered via a conventional power plug that can plug in to the mains power grid.
 This means that these devices would need to be able to run on the electricity that has voltages and frequencies dictated by your local power grid. 
 The electrical power provided by the power companies should come from either renewable or nuclear sources. 
 So, take a subscription that excludes that power can come from fossil fuel power plants.
 
-The electrolyzer to use will generally be a pulsed electrolyzer (see https://hydrogengarage.com/pwm3g/ ).
+The electrolyser to use will generally be a pulsed electrolyser (see https://hydrogengarage.com/pwm3g/ ).
+
+The H2 filling station will have following components:
+electrolyser - spark arrestor - compressor - spark arrestor - tank
+This, out of safety reasons.
+Also, again out of safety concerns, you should never have the filling station running when a human is nearby. Only run it when there is no one around. 
