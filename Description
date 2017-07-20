@@ -5,7 +5,7 @@ Any size of tank can be attached, but the standard size for use will be the 3 ga
 A 3 gallon CNG tank, filled with hydrogen at 250 bar, would be able to contain 11,35 kWh or hence 96 % of the energy in a 1 liter gasoline tank.
 Calculation: 11,35 l x 0,003 kWh/l x 250 bar = 8,51 kWh / 8,83 kWh = 0,96 x 100 = 96% 
 
-The station is also designed to use an electrolyser that generates Brown's gas (HHO) but which is foreseen to separate off the oxygen -which forms at the anode (+-side) -. 
+The station is also designed to use an electrolyser that generates Brown's gas (HHO) but which is foreseen to separate off the oxygen -which forms at the anode (+ side) -. 
 The reason why an HHO electrolyser is used is because this type of electrolyser is cheaper than regular electrolysers designed to make hydrogen. 
 Since hydrogen is thus made (and not Brown's gas), there is less risk of explosion when the gas is compressed by the compressor.
 
