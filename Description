@@ -10,7 +10,6 @@ The reason why an HHO electrolyzer is used is because this type of electrolyzer 
 Since hydrogen is thus made (and not Brown's gas), there is less risk of explosion when the gas is compressed by the compressor.
 
 USE
-
 A relatively small and cheap refill station like this could be useful for small enterprises (and perhaps individuals) to refill swappable hydrogen tanks. 
 These tanks can then be used in either:
 * single-fuel vehicles that are used for driving short distances with it after which they can be refilled again. This is useful for say vehicles operating in cities (i.e. delivery vehicles)
@@ -24,7 +23,11 @@ and https://en.wikipedia.org/wiki/Proportionality_(mathematics)
 Other benefits are that the compressors you can use can be far cheaper (CNG) compressors, and that you could connect the 250 bar tank to internal combustion engines foreseen to run on CNG.
 
 WORK OUT
-
 Since we'll need it able to fill up a 3 gallon tank, the electrolyser of the filling station would need to be able to generate 11,35 liter of hydrogen, and then compress this to 250 bar. 
 The time of filling is best limited to 10 minutes or less, so the electrolyser needs to produce at least 0,189 liter per minute.
 Inlet gas amounts to the compressor need to match with the outlet flow of the electrolyser.
+
+Both the compressor and the electrolyzer are to be powered via a conventional power plug that can plug in to the mains power grid.
+This means that these devices would need to be able to run on the electricity that has voltages and frequencies dictated by your local power grid. 
+The electrical power provided by the power companies should come from either renewable or nuclear sources. 
+So, take a subscription that excludes that power can come from fossil fuel power plants.
