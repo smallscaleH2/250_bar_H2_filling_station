@@ -1,0 +1,23 @@
+This document describes the creation of a 250 bar hydrogen filling station.
+It is intented for small-scale hydrogen production and is thus designed to allow filling up (at least) 1 CNG tank with hydrogen at 250 bar of pressure. 
+Any size of tank can be attached, but the standard size for use will be the 3 gallon, type 1, CNG tank.
+
+A 3 gallon CNG tank, filled with hydrogen at 250 bar, would be able to contain 11,35 kWh or hence 96 % of the energy in a 1 liter gasoline tank.
+Calculation: 11,35 l x 0,003 kWh/l x 250 bar = 8,51 kWh / 8,83 kWh = 0,96 x 100 = 96% 
+
+The station is also designed to use an electrolyzer that generates Brown's gas (HHO) but which is foreseen to separate off the oxygen -which forms at the anode (+-side) -. 
+The reason why an HHO electrolyzer is used is because this type of electrolyzer is cheaper than regular electrolyzers designed to make hydrogen. 
+Since hydrogen is thus made (and not Brown's gas), there is less risk of explosion when the gas is compressed by the compressor.
+
+USE
+
+A relatively small and cheap refill station like this could be useful for small enterprises (and perhaps individuals) to refill swappable hydrogen tanks. 
+These tanks can then be used in either:
+* single-fuel vehicles that are used for driving small distances with it after which they can be refilled again. This is useful for say vehicles operating in cities (i.e. delivery vehicles)
+* flexible-fuel vehicles. For instance cars that have a tank with liquid fuel for covering large distances with it, and a hydrogen tank for city use.
+
+WORK OUT
+
+Since we'll need it able to fill up a 3 gallon tank, the electrolyser of the filling station would need to be able to generate 11,35 liter of hydrogen, and then compress this to 250 bar. 
+The time of filling is best limited to 10 minutes or less, so the electrolyser needs to produce at least 0,189 liter per minute.
+Inlet gas amounts to the compressor need to match with the outlet flow of the electrolyser.
