@@ -13,7 +13,7 @@ USE
 A relatively small and cheap refill station like this could be useful for small enterprises (and perhaps individuals) to refill swappable hydrogen tanks. 
 These tanks can then be used in either:
 * single-fuel vehicles that are used for driving short distances with it after which they can be refilled again. This is useful for say vehicles operating in cities (i.e. delivery vehicles)
-* flexible-fuel vehicles. For instance cars that have a tank with liquid fuel for covering long distances with it, and a hydrogen tank for city use.
+* dual-fuel vehicles. For instance cars that have a tank with liquid fuel for covering long distances with it, and a hydrogen tank for city use.
 
 Given that the hydrogen is compressed at only 250 bar -rather than 350 bar or 700 bar as seen in other H2 filling station designs-, the compressor will need to work far less hard for the amount of hydrogen you can store in them.
 This, as the energy needed for compression is does not have a linear relation with the amount of energy you store in the tanks; rather it's a polynomial function; 
