@@ -41,8 +41,12 @@ This means that these devices would need to be able to run on the electricity th
 The electrical power provided by the power companies should come from either renewable or nuclear sources. 
 So, take a subscription that excludes that power can come from fossil fuel power plants.
 
+We should be aware that the CNG tanks will weaken over time due to the use of hydrogen therein (hydrogen embrittlement). 
+As such, we need to timestamp on the tank the day hydrogen was first introduced. 
+After a certain period following this day, the tank should be replaced.
+
 The H2 filling station will have following components:
 electrolyser - spark arrestor - compressor - spark arrestor - tank
 This, out of safety reasons.
 Also, again out of safety concerns, you should never have the filling station running when a human is nearby.
-Only run it when there is no one around. 
+Only run it when there is no one around.
