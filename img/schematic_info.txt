@@ -1,5 +1,10 @@
 Calculations:
 
+Hydrogen fuel costs using the 250 bar H2 filling station:
+When electricity costs are 0,10€/kWh, then costs are 0,851 € per 8,51 kWh (= the energy contained in a 3 gallon H2 tank compressed at 250 bar). Assuming an energy conversion loss of 50%, costs would be 1,7 € per H2 tank refill. By comparison, 0,96 liter of gasoline (which contains 8,51 kWh worth of energy) costs about 1,25 € in Europe (in the year 2017 AD).
+
+When electricity costs are 0,05€/kWh, then costs are 0,4255 € per 8,51 kWh (= the energy contained in a 3 gallon H2 tank compressed at 250 bar). Assuming an energy conversion loss of 50%, costs would be 0,851 € per H2 tank refill. By comparison, 0,96 liter of gasoline (which contains 8,51 kWh worth of energy) costs about 1,25 € in Europe (in the year 2017 AD).
+
 Matching of compressor to Hybrid HydroTech LLC HydroTube model:
 Max-Air 90 electric:
 can compress to 345 bar (will be set to compress at 250 bar) and has a flow rate of 18,4m³/h = 305 l/h = 5,08 l/m
