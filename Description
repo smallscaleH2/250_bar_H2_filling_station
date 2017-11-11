@@ -2,7 +2,7 @@ This document describes the creation of a 250 bar hydrogen filling station.
 It is intented for small-scale hydrogen production and is thus designed to allow filling up (at least) 1 CNG tank with hydrogen at 250 bar of pressure. 
 Any size of tank can be attached, but the standard size for use will be the 3 gallon, type 1, CNG tank.
 
-A 3 gallon CNG tank, filled with hydrogen at 250 bar, would be able to contain 11,35 kWh or hence 96 % of the energy in a 1 liter gasoline tank.
+A 3 gallon (or 11,35 l) CNG tank, filled with hydrogen at 250 bar, would be able to contain 8,51 kWh or hence 96 % of the energy in a 1 liter gasoline tank.
 Calculation: 11,35 l x 0,003 kWh/l x 250 bar = 8,51 kWh / 8,83 kWh = 0,96 x 100 = 96% 
 
 The station is also designed to use an electrolyser that generates hydrogen and oxygen separately and which also uses steel plates.
