@@ -42,8 +42,9 @@ The electrical power provided by the power companies should come from either ren
 So, take a subscription that excludes that power can come from fossil fuel power plants.
 
 We should be aware that the CNG tanks will weaken over time due to the use of hydrogen therein (hydrogen embrittlement). 
-As such, we need to timestamp on the tank the day hydrogen was first introduced. 
+As such, we need to put a timestamp on the tank displaying the day hydrogen was first introduced to the tank. 
 After a certain period following this day, the tank should be replaced.
+Also, the type 1 tank should be an aluminium tank, not a steel tank.
 
 The H2 filling station will have following components:
 electrolyser - spark arrestor - compressor - spark arrestor - tank
